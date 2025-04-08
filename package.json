@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "my first backend side",
+  "main": "index.js",
+  "scripts": {
+    "all": "node index.js"
+  },
+  "author": "kartik chandra pramanik",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
